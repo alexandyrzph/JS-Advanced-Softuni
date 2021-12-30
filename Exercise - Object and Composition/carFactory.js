@@ -41,11 +41,3 @@ console.log(solve({
         wheelsize: 17
     }
 ))
-
-/*  { model: 'VW Golf II',
-      engine: { power: 90,
-            volume: 1800 },
-      carriage: { type: 'hatchback',
-              color: 'blue' },
-  wheels: [13, 13, 13, 13] }
-*/
